@@ -13,11 +13,11 @@ this is a project made by the team "Gli autostoppisti"
 
 
 ## Description
-Our project is a simple game where you are presented with cars at an interception, each car has a number on it and an arrow signaling the path it wants to take, the objective is to guide each car through the interception in the right order using hand and arms gestures.
-These movements can help rehabilitate the upper limbs.
+Our project is a simple game where you are presented with cars at an interception, each car has a number on it and an arrow signaling the path it wants to take, you must guide each car trough the interseption following street laws.
 
 ## Objective
-Our objective is to create an environment to train the upper limbs while also training perception in a somewhat familiar environment.
+the objective is to create a dualtask activity where you guide each car through the interception in the right order using hand and arms gestures.
+this helps with cognitive abilities and to reabilitate the upper limbs.
 
 
 ## Components:
