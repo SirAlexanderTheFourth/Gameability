@@ -44,7 +44,9 @@ Our objective is to create an envirorment to train the upper limbs while also tr
 ### Alexander Becchio
 
  in the first part of the project i coordinated the team, helping with some disagreements among my team mates and mantaining the 
- repository. I was also tasked with reserching wich movements would me more helpful in the reabilitations process
+ repository. I was also tasked with reserching wich movements would me more helpful in the reabilitations process.
+ I didn't found any particular motion, however i did find a study published in the [Journal of Rehabilitation Medicine](https://medicaljournalssweden.se/jrm) found that stroke patients who participated in finger counting exercises that required them to raise the correct number of fingers to indicate the number of an object presented on a computer screen showed improvements in upper limb function, as well as improvements in cognitive processing and reaction time.
+
 
 
 ## How to use:
