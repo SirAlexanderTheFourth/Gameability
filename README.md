@@ -68,5 +68,11 @@ during the merge we encountered some problems
 
 ## How to use:
 
+To install Unity, follow these steps:
+
+First download the softwares, to do that go to the "Softwares" section and click on the two links.
+Next, you need to install the game folder in the "Download" section, click the link, once in google drive downoad the "builds" forlder.
+once downoaded open the folder and doubble click on "Gameability.exe"
 
 ## Download:
+[download](https://drive.google.com/drive/folders/1SHpTc99wdVFs-dyO5z-79y9GLz2cAsYm?usp=share_link)
