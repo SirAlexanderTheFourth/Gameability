@@ -35,7 +35,7 @@ Our objective is to create an environment to train the upper limbs while also tr
  Using Blender, a 3D modeling software, I created all the 3D models present in the video game. I spent some time studying the   
  program's functions and faced some initial difficulties, as I had never used it before. However, I overcame the obstacles and 
  managed to complete the work within the expected timeframe.
- [test](/screenshots/IMG-20230331-WA0009.jpg)
+ ![test](/screenshots/IMG-20230331-WA0009.jpg)
 
 ### Daniele Di Mantua
 
@@ -51,6 +51,8 @@ The most difficult part of the project was the connection between Leap Motion an
 
 i worked in unity, my job was to combine the objects made in blender to create the game levels and to write the code for the movement of the cars and for the game menu. For the movement of the cars i created a path using waypoints, but it was not that easy because it was the first time i used c#.
 
+ ![test](/screenshots/IMG-20230331-WA0015.jpg)
+ 
 ### Alexander Becchio
 
  in the first part of the project, I coordinated the team, helping with some disagreements among my teammates and maintaining the 
