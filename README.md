@@ -51,6 +51,7 @@ The most difficult part of the project was the connection between Leap Motion an
 ### Samuele Bruno
 
 i worked in unity, my job was to combine the objects made in blender to create the game levels and to write the code for the movement of the cars and for the game menu. For the movement of the cars i created a path using waypoints, but it was not that easy because it was the first time i used c#.
+i added the objects created in blender in unity and i added physics, adding the gravity on the cars and the boxcolliders on the plane and on the cars, after which i made sure that the cars follow a predefined path according to a pre-established order using waypoints, the waypoints are spheres connected by lines that disappear once the game has started and are useful for me to manually create the path for each machine. I also managed the part of the menus and the various buttons.
 
  ![test](/screenshots/Immagine%20WhatsApp%202023-03-31%20ore%2013.21.50.jpg)
  
