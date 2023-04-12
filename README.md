@@ -35,7 +35,7 @@ Our objective is to create an environment to train the upper limbs while also tr
  Using Blender, a 3D modeling software, I created all the 3D models present in the video game. I spent some time studying the   
  program's functions and faced some initial difficulties, as I had never used it before. However, I overcame the obstacles and 
  managed to complete the work within the expected timeframe.
- ![test](/screenshots/IMG-20230331-WA0009.jpg)
+ ![test](/screenshots/IMG-20230331-WA0012.jpg)
 
 ### Daniele Di Mantua
 
