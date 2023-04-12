@@ -68,4 +68,4 @@ during the merge we encountered some problems
 ## How to use:
 
 
-## Downloads:
+## Download:
