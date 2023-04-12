@@ -58,7 +58,9 @@ i worked in unity, my job was to combine the objects made in blender to create t
  in the first part of the project, I coordinated the team, helping with some disagreements among my teammates and maintaining the 
  repository. I was also tasked with researching which movements would be more helpful in the rehabilitation process.
  I didn't find any particular motion, however, I did find a study published in the [Journal of Rehabilitation Medicine](https://medicaljournalssweden.se/jrm) in which it was found that stroke patients who participated in finger counting exercises that required them to raise the correct number of fingers to indicate the number of an object presented on a computer screen showed improvements in upper limb function, as well as improvements in cognitive processing and reaction time.
-
+ 
+ ![test](/screenshots/IMG-20230404-WA0004.jpg)
+ 
 After that we all came toghether to merge the two parts of the code.
 during the merge we encountered some problems
 
