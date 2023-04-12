@@ -30,18 +30,18 @@ Our objective is to create an envirorment to train the upper limbs while also tr
 * Ultraleap Gemini
   * Gemini version used: [5.7.2](https://www2.leapmotion.com/downloads/gemini/v5.7.2)
 
-## Development:
-* Simone Basso
+## Development: 
+### Simone Basso
 
  Using Blender, a 3D modeling software, I created all the 3D models present in the video game. I spent some time studying the   
  program's functions and faced some initial difficulties, as I had never used it before. However, I overcame the obstacles and 
  managed to complete the work within the expected timeframe.
 
-* Daniele Di Mantua
+### Daniele Di Mantua
 
-* Samuele Bruno
+### Samuele Bruno
 
-* Alexander Becchio
+### Alexander Becchio
 
  in the first part of the project i coordinated the team, helping with some disagreements among my team mates and mantaining the 
  repository. I was also tasked with reserching wich movements would me more helpful in the reabilitations process
