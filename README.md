@@ -74,5 +74,10 @@ To install Unity, follow these steps:
 2. Next, you will need to download the game folder in the "Download" section, click the link, once in google drive downoad the "builds" forlder.
 3. once downoaded open the folder and doubble click on "Gameability.exe"
 
+
+Game controls:
+
+![](/screenshots/instructions.jpg)
+
 ## Download:
 [download](https://drive.google.com/drive/folders/1SHpTc99wdVFs-dyO5z-79y9GLz2cAsYm?usp=share_link)
